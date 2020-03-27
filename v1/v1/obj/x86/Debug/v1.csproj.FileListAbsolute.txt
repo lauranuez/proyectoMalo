@@ -1,0 +1,38 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.Properties.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.csproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\bin\Debug\v1.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\bin\Debug\v1.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.Consultas.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.Inicio.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.Registro.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\v1\obj\x86\Debug\v1.pdb
+C:\Users\Usuario\Desktop\SO\Semana 4\v1\v1\obj\x86\Debug\v1.exe
+C:\Users\Usuario\Desktop\SO\Semana 4\v1\v1\obj\x86\Debug\v1.pdb
+Z:\v1\v1\bin\Debug\v1.exe
+Z:\v1\v1\bin\Debug\v1.pdb
+Z:\v1\v1\obj\x86\Debug\v1.csprojAssemblyReference.cache
+Z:\v1\v1\obj\x86\Debug\v1.Inicio.resources
+Z:\v1\v1\obj\x86\Debug\v1.QUERYS.resources
+Z:\v1\v1\obj\x86\Debug\v1.Registro.resources
+Z:\v1\v1\obj\x86\Debug\v1.Properties.Resources.resources
+Z:\v1\v1\obj\x86\Debug\v1.csproj.GenerateResource.cache
+Z:\v1\v1\obj\x86\Debug\v1.exe
+Z:\v1\v1\obj\x86\Debug\v1.pdb
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.exe
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.pdb
+C:\Users\Usuario\Desktop\SO\v1\v1\bin\Debug\v1.exe
+C:\Users\Usuario\Desktop\SO\v1\v1\bin\Debug\v1.pdb
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.Inicio.resources
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.QUERYS.resources
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.Registro.resources
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SO\v1\v1\obj\x86\Debug\v1.csproj.GenerateResource.Cache
+Z:\SO\proyecto\v1\v1\bin\Debug\v1.exe
+Z:\SO\proyecto\v1\v1\bin\Debug\v1.pdb
+Z:\SO\proyecto\v1\v1\obj\x86\Debug\v1.csprojAssemblyReference.cache
+Z:\SO\proyecto\v1\v1\obj\x86\Debug\v1.Inicio.resources
+Z:\SO\proyecto\v1\v1\obj\x86\Debug\v1.Properties.Resources.resources
+Z:\SO\proyecto\v1\v1\obj\x86\Debug\v1.csproj.GenerateResource.cache
+Z:\SO\proyecto\v1\v1\obj\x86\Debug\v1.exe
+Z:\SO\proyecto\v1\v1\obj\x86\Debug\v1.pdb
